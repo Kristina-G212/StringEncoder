@@ -1,5 +1,4 @@
 s = str(input())
-
 def printGroup(char, size):
     if size != 0:
         print(char, size, sep='', end='')
